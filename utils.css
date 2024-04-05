@@ -1,0 +1,33 @@
+.text-center{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 15vh;
+    position: relative;
+    top: 7px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* .bg-red{
+    background-color: red;
+} */
+
+.mx-auto{
+    margin: auto;
+}
+
+/* .m-w-20{
+    max-width: fit-content;
+} */
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}
